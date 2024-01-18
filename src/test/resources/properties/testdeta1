@@ -1,0 +1,7 @@
+#this is output deta test case
+#Wed Apr 19 19:20:10 IST 2023
+browser=firefox
+message=this is property file available for reading
+title=property file
+url=https\://google.com
+testmessage=567890

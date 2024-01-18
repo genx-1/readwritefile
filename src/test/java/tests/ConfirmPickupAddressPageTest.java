@@ -46,7 +46,7 @@ public class ConfirmPickupAddressPageTest extends TestBase
 		ContactPerson.returnAddressInfo();
 		Openinghour.openTimeOfStore();
 		pickup.pickupAddressInfo();
-		boolean lable7 = pickupAddress.confirmPickupAddress();
+		String lable7 = pickupAddress.confirmPickupAddress();
 			Assert.assertEquals(lable7, true);
 }
 	
